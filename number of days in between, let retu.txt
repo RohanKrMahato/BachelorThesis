@@ -1,0 +1,20 @@
+number of days in between, let return is alpha today's price pt , log return log 1+alpha, 
+
+3*log(1+alpha)
+
+pt and (1+alpha)*pt
+
+
+Friday to Monday, ( 110) this is wrong. compounding is callucalute on the time elapse
+
+divide by number of the days ( approximation ) , we need to make the scale same, the daily log return ( in a day ) , handle the case of Friday properly ( same thing for Friday and holiday )
+
+
+
+iid process of stock, and covariance matrix ( think clearly ) 
+
+Random Variables
+
+covariance matrix and the random variable and the stock interpretation and the interpretation of the eigen value and eigen vector, explain a particular eigen value and vector, 
+
+what is the error in terms of the stock while doing the PCA. why do we want to look at low dimension?
